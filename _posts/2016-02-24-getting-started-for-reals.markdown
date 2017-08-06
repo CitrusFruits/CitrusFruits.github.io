@@ -3,7 +3,7 @@ layout: post
 title: Getting Started, For Reals
 date: 2016-02-24 19:55:45.000000000 -08:00
 ---
-#####Key Terms
+##### Key Terms
 
 **AIM**: Adventures in Missions, the missions organization I am partnering with to do the World Race
 
@@ -13,7 +13,7 @@ date: 2016-02-24 19:55:45.000000000 -08:00
 
 **Squad Mentor**: In the case for my squad, he’s the guy that makes the final call in anything pertaining to our trip. Also serves as a source of guidance and direction. Our mentor, Chris, once again goes way beyond this definition.
 
---
+-----
 
 Since this is what I’m considering my first official World Race Blog, now that I am officially on my way to my first country, let me set the tone for the blogs I’ll be writing this year.
 
@@ -23,7 +23,7 @@ I promise never to lie or embellish, although I may have to be vague or change s
 
 Please leave comment! But, along the lines of safety concerns, please don’t publish on social media or comment on my blogs with any specific names of countries, cities, or other information I may have shared with you in the past. Not every place I’m going will require this level caution, but I would prefer to play it safe.
 
---
+-----
 
 I’ve been in quite a few places since I left California on January 1st, and it’s been a blast. For the first 36 hours I had the awesome opportunity to fly out to Orlando and hang out with my good friend Matt Houston. We didn’t have a whole lot of time to spend together, so we chose to make the most of it by going to Disney World’s Magic Kingdom. Much to my surprise, it was almost exactly like Disneyland; the layout is the same, their rides are named the same, and it has the same general feeling of Disney happiness in the air. I guess the biggest difference is that Magic Kingdom is in a swamp, while Disneyland is in the middle of the a sprawling city. They should consider putting a Disney park in a more scenic location.
 
